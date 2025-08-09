@@ -57,9 +57,10 @@ VIDHI bridges this gap by:
 
 [![Watch the video](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)  
 
-<a href="demonstration/working_VIDHI_LegalAidAI.mp4">
-    <img src="demonstration/VIDHI.png" alt="VIDHI Demo Video" width="500"/>
-</a>
+<iframe width="640" height="360" 
+src="https://www.youtube.com/embed/VIDEO_ID" 
+title="VIDHI Demo Video" frameborder="0" allowfullscreen>
+</iframe>
 
 
 ---
@@ -78,4 +79,4 @@ VIDHI bridges this gap by:
 ## 🚀 How to Run the Project
 1. **Clone this repository**  
    ```bash
-   git clone https://github.com/yourusername/vidhi-legal-guide.git
+   git clone https://github.com/SrushtiKumar/VIDHI_LegalAid_AIAgent.git
