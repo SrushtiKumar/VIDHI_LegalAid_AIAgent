@@ -51,19 +51,19 @@ VIDHI bridges this gap by:
 <br>
 <img src="demonstration/4.png" alt="Screenshot 4" width="500"/>  
 <img src="demonstration/5.png" alt="Screenshot 5" width="500"/>
----
 
+--- 
 ## 🎥 Demo Video - AI Agent working demonstration
 
-[![Watch the video](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)  
+<!-- [![Watch the video](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)  
 
 <iframe width="640" height="360" 
 src="https://www.youtube.com/embed/VIDEO_ID" 
 title="VIDHI Demo Video" frameborder="0" allowfullscreen>
 </iframe>
 
+-->
 
----
 ---
 
 ## 🗂️ Files Description
